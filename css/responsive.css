@@ -1,0 +1,33 @@
+@media (max-width: 767px) {
+
+
+
+  .header .hamburger-btn {
+    display: flex;
+    margin-right: 15px;
+  }
+
+  .header .nav {
+    flex: 0 1 100%;
+    max-width: 100%;
+    border: 1px solid #fff;
+    flex-direction: column;
+  }
+
+  .header .container a svg {
+    /* border: 1px solid #fff;   */
+    margin: 0 15px;
+
+  }
+
+  .header .nav ul li {
+    width: 100%;
+
+  }
+
+  .header .nav ul li a {
+    color: #fff;
+    padding: 2px;
+
+  }
+}
