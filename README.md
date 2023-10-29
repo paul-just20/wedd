@@ -1,4 +1,4 @@
-# wedd
+# Paul & Ashley Wedding RSVP Website
 Basic Wedding Website of Paul and Ashley
 
 - Basic HTML Static Webpage
