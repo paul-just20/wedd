@@ -167,7 +167,9 @@
 
 
   /* FOOTER LOGO */
-
+.footer .footer-content .couple-name{
+width: 0px;
+}
   .footer .footer-content .couple-name img {
     width: 85%;
     height: 85%;
