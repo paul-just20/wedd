@@ -158,7 +158,7 @@
     transform: translate(0px);
   }
 
-  /* ENTORURAGE  */
+  /* ENTOURAGE  */
   .entourage-section .people-item {
     flex: 0 0 100%;
     max-width: 100%;
@@ -167,23 +167,22 @@
 
 
   /* FOOTER LOGO */
-.footer .footer-content .couple-name{
-width: 0px;
-}
+  .footer .footer-content .couple-name {
+    width: 100%;
+    border-radius: 50%;
+  }
   .footer .footer-content .couple-name img {
-    width: 85%;
-    height: 85%;
-    padding-top: 0px;
-    left: 13px;
-    top: 30px;
-    overflow: hidden;
+    width: 80%;
+    height: 80%;
+    top: 35px;
+    left: 30px;
   }
 
   .footer .footer-content .couple-name h2 {
     line-height: 50px;
     font-size: 45px;
-
   }
+
 
 
 
