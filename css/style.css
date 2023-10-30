@@ -283,6 +283,11 @@ footer {
   font-family: "Great Vibes", cursive;
 }
 
+
+.home-section .home-content .img-icon img.ring {
+  height: 48px;
+}
+
 .home-section .home-content p {
   margin-top: 30px;
 }
@@ -308,6 +313,7 @@ footer {
   animation: fadeInTop 1s ease forwards;
   animation-delay: 1s;
 }
+
 
 /*  ABOUT US Section */
 .about-us {
@@ -677,6 +683,13 @@ footer {
   font-size: 16px;
   line-height: 26px;
 }
+
+.rsvp-section .rsvp-form {
+  /* border: 1px solid #221919; */
+  width: 650px;
+  height: 850px;
+}
+
 
 /* FOOTER SECTION HERE */
 .footer {
